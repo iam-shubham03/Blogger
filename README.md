@@ -2,4 +2,4 @@
 Simple blogging website made using express, node,js and mongodB
 
 
-Use ".../create" to create a Blog
+Use ".../compose" in URL to create a Blog
